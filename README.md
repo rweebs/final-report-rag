@@ -16,8 +16,8 @@ This project is an interactive question-answering (QA) chatbot that allows users
 
 ### 1. Clone the Repository
 ```sh
-git clone <your-repo-url>
-cd rag-intro-chat-with-docs
+git clone https://github.com/rweebs/final-report-rag
+cd final-report-rag
 ```
 
 ### 2. Install Python Dependencies
